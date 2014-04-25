@@ -1,0 +1,31 @@
+* as a user i want to add a car
+* as a user i want to add a truck
+* as a user i want to add a motorcycle
+* as a user i want to add other
+* as an admin i want to create a user
+* as an user i want to add an address
+* as an user i want to qualify a post
+* as an user i want to make a question
+* as a user i want to answer only question to my posts
+* as an user i cannot to question in my own post
+* as an user i want to create a post
+* as an user i want to destroy a post
+* as a guest i want to search a post in order to buy a vehicle
+----------------------------------------------------------------------------------------
+* as an user i cannot to qualify in my own post
+* as an user i want to edit my own post
+* as an admin i want to delete a user
+* as an admin i want to block a user for a while
+* as an admin i want to delete a user question
+* as an admin i want to delete a user answer
+* as an admin i want to delete a post from user
+* as an admin i want to upgrade the web
+* as an user i want to choose payment methods
+* as an user i want to contact an admin
+* delete solded post automatically
+* as a user i want to see the personal information of the seller when i bought the vehicle
+* as a user i want to see the personal information of the buyer when i sold the vehicle
+* as an admin i want to send messages to the other users
+* as a guest i can only see user´s posts
+* as a guest i want to contact an admin
+* as an user i want to report a post 
